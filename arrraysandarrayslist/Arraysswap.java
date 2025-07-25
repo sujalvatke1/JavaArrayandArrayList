@@ -3,6 +3,7 @@ import java.util.Arrays;
 public class Arraysswap {
     public static void main(String[]args){
         int[]arr={1,2,3,4,5,};
+        // swap the two element in index
         change(arr,1,2);
         System.out.println(Arrays.toString(arr));
 
